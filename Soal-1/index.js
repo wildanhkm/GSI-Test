@@ -18,3 +18,6 @@ function loker(num) {
 loker(1);
 loker(10);
 loker(15);
+loker(22);
+loker(28);
+loker(33);
